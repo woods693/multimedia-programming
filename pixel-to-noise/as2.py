@@ -1,4 +1,3 @@
-#James and Woody Assignment 2
 import sys
 sys.path.append('packages')
 from Tkinter import *
